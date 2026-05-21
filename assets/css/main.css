@@ -2205,11 +2205,6 @@ section,
   transition: 0.3s;
 }
 
-.section-title .lead-1{
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: black;
-}
 
 .recent-blog-postst .post-item .post-img img {
   transition: 0.5s;
@@ -2261,10 +2256,6 @@ section,
   font-weight: 600;
   line-height: 1;
   transition: 0.3s;
-  border: 1.2px solid var(--heading-color);
-  border-radius: 13px;
-  padding: .8rem 1.1rem;
-  width: 50%;
   color: color-mix(in srgb, var(--default-color), transparent 40%);
 }
 
